@@ -1,23 +1,23 @@
 <h1 align="center">Alexandre Balladelli <sub>(NoiSyBoy)</sub></h1>
 
 <p align="center">
-  Développeur orienté solutions · Web · Automatisation · Infrastructure
+  Technicien systèmes & réseaux · Passionné par la technologie
 </p>
 
 ---
 
 ### À propos
 
-Je conçois des outils simples, fiables et utiles pour répondre à des besoins concrets.
+Je suis technicien systèmes et réseaux, passionné par la technologie et les solutions concrètes.
 
-Mon terrain de jeu se situe à la rencontre du développement web, de l’automatisation et de l’infrastructure : transformer un processus manuel en outil, déployer une application proprement et rendre un système plus facile à exploiter.
+J’aime comprendre les environnements techniques, diagnostiquer les problèmes et mettre en place des outils ou des configurations qui facilitent le quotidien.
 
-### Technologies
+### Domaines d’intérêt
 
-- **Développement :** PHP, JavaScript, HTML, CSS, SQL
-- **Données :** SQLite
-- **Infrastructure :** Docker, Linux, Windows
-- **Approche :** automatisation, diagnostic, documentation et amélioration continue
+- **Systèmes & réseaux**
+- **Infrastructure & services**
+- **Automatisation et amélioration des processus**
+- **Veille technologique**
 
 ### Ce qui me guide
 
